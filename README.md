@@ -5,3 +5,5 @@ JavaScript Basic Logic
 
 # Exercise-3
 Membuat tabel data dari Swapi dan Tambah field untuk filtering data dari table tersebut.
+
+# Every day be Coding
